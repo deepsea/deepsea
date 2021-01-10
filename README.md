@@ -7,12 +7,13 @@
 
 [![deepsea's github stats](https://github-readme-stats.vercel.app/api?username=deepsea&count_private=true&show_icons=true&theme=calm&hide=stars,prs)](https://github.com/deepsea)
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=deepsea&layout=compact&theme=calm&langs_count=8)](https://github.com/deepsea)
+<!-- [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=deepsea&count_private=true&layout=compact&theme=calm&langs_count=8)](https://github.com/deepsea) -->
 
 ### Technologies I have experience with...
 
 <img src='https://github.com/deepsea/deepsea/blob/master/icons/ang.png' alt='Angular' width='40' /> <img src='https://github.com/deepsea/deepsea/blob/master/icons/css.png' alt='CSS' width='40' />
 <img src='https://github.com/deepsea/deepsea/blob/master/icons/docker.png' alt='Docker' width='40' />
+<img src='https://github.com/deepsea/deepsea/blob/master/icons/express.png' alt='Express' width='40' />
 <img src='https://github.com/deepsea/deepsea/blob/master/icons/git.png' alt='Git' width='40' />
 <img src='https://github.com/deepsea/deepsea/blob/master/icons/graphql.png' alt='HTML' width='40' />
 <img src='https://github.com/deepsea/deepsea/blob/master/icons/java.png' alt='Java' width='40' />
