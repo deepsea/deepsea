@@ -23,6 +23,6 @@
 <img src='https://github.com/deepsea/deepsea/blob/master/icons/linux.png' alt='Linux' width='50' />
 <img src='https://github.com/deepsea/deepsea/blob/master/icons/mongo.png' alt='Mongo' width='50' />
 <img src='https://github.com/deepsea/deepsea/blob/master/icons/node.png' alt='NodeJS' width='50' />
-<img src='hhttps://github.com/deepsea/deepsea/blob/master/icons/python.png' alt='Python' width='50' />
+<img src='https://github.com/deepsea/deepsea/blob/master/icons/python.png' alt='Python' width='50' />
 <img src='https://github.com/deepsea/deepsea/blob/master/icons/react.png' alt='ReactJS' width='50' /> <img src='https://github.com/deepsea/deepsea/blob/master/icons/rest.png' alt='REST' width='50' /> <img src='https://github.com/deepsea/deepsea/blob/master/icons/springboot.png' alt='Spring' width='50' />
-<img src='hhttps://github.com/deepsea/deepsea/blob/master/icons/typescript.png' alt='TypeScript' width='50' />
+<img src='https://github.com/deepsea/deepsea/blob/master/icons/typescript.png' alt='TypeScript' width='50' />
