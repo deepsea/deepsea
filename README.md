@@ -16,12 +16,13 @@
 <img src='https://github.com/deepsea/deepsea/blob/master/icons/docker.png' alt='Docker' width='50' />
 <img src='https://github.com/deepsea/deepsea/blob/master/icons/git.png' alt='Git' width='50' />
 <img src='https://github.com/deepsea/deepsea/blob/master/icons/graphql.png' alt='HTML' width='50' />
-<img src='https://github.com/deepsea/blob/master/icons/java.png' alt='Java' width='50' />
-<img src='https://github.com/deepsea/blob/master/icons/javascript.png' alt='JavaScript' width='50' /> <img src='https://github.com/deepsea/blob/master/icons/jenkins.png' alt='Jenkins' width='50' /> <img src='https://github.com/deepsea/blob/master/icons/kafka.png' alt='Kafka' width='50' />
-<img src='https://github.com/deepsea/blob/master/icons/kubernetes.png' alt='Kubernetes' width='50' />
-<img src='https://github.com/deepsea/blob/master/icons/linux.png' alt='Linux' width='50' />
-<img src='https://github.com/deepsea/blob/master/icons/mongo.png' alt='Mongo' width='50' />
-<img src='https://github.com/deepsea/blob/master/icons/node.png' alt='NodeJS' width='50' />
-<img src='hhttps://github.com/deepsea/blob/master/icons/python.png' alt='Python' width='50' />
-<img src='https://github.com/deepsea/blob/master/icons/react.png' alt='ReactJS' width='50' /> <img src='https://github.com/deepsea/blob/master/icons/rest.png' alt='REST' width='50' /> <img src='https://github.com/deepsea/blob/master/icons/springboot.png' alt='Spring' width='50' />
-<img src='hhttps://github.com/deepsea/blob/master/icons/typescript.png' alt='TypeScript' width='50' />
+<img src='https://github.com/deepsea/deepsea/blob/master/icons/java.png' alt='Java' width='50' />
+<img src='https://github.com/deepsea/deepsea/blob/master/icons/javascript.png' alt='JavaScript' width='50' /> <img src='https://github.com/deepsea/deepsea/blob/master/icons/jenkins.png' alt='Jenkins' width='50' />
+<img src='https://github.com/deepsea/deepsea/blob/master/icons/kafka.png' alt='Kafka' width='50' />
+<img src='https://github.com/deepsea/deepsea/blob/master/icons/kubernetes.png' alt='Kubernetes' width='50' />
+<img src='https://github.com/deepsea/deepsea/blob/master/icons/linux.png' alt='Linux' width='50' />
+<img src='https://github.com/deepsea/deepsea/blob/master/icons/mongo.png' alt='Mongo' width='50' />
+<img src='https://github.com/deepsea/deepsea/blob/master/icons/node.png' alt='NodeJS' width='50' />
+<img src='hhttps://github.com/deepsea/deepsea/blob/master/icons/python.png' alt='Python' width='50' />
+<img src='https://github.com/deepsea/deepsea/blob/master/icons/react.png' alt='ReactJS' width='50' /> <img src='https://github.com/deepsea/deepsea/blob/master/icons/rest.png' alt='REST' width='50' /> <img src='https://github.com/deepsea/deepsea/blob/master/icons/springboot.png' alt='Spring' width='50' />
+<img src='hhttps://github.com/deepsea/deepsea/blob/master/icons/typescript.png' alt='TypeScript' width='50' />
