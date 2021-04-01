@@ -1,7 +1,6 @@
 ### Hi there 🔥
 
 -   I'm a principal software engineer / full stack developer ![](https://komarev.com/ghpvc/?username=deepsea&color=orange)
--   I’m currently working on a disney plus clone prototype web app https://disney-clone-redux.web.app/
 -   You can connect with me here...
     <a href="https://www.linkedin.com/in/richardlawlor/" target="_blank"><img alt="LinkedIn" width='70' src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" /></a>
 
