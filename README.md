@@ -8,7 +8,7 @@
 
     [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=deepsea&count_private=true&layout=compact&theme=calm&langs_count=8)](https://github.com/deepsea)
 
-    <a href="https://app.daily.dev/rlawlor"><img src="https://api.daily.dev/devcards/d60fd968e82e488aa2b8371100e1a960.png?r=lkt" width="120" alt="Richard Lawlor's Dev Card"/></a>
+    <!-- <a href="https://app.daily.dev/rlawlor"><img src="https://api.daily.dev/devcards/d60fd968e82e488aa2b8371100e1a960.png?r=lkt" width="120" alt="Richard Lawlor's Dev Card"/></a> -->
 
 <!-- <div align="center">
 <div style="display: flex; align-items: flex-start;">
