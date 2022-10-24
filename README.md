@@ -6,8 +6,9 @@
 
 <hr>
 
+[![wakatime](https://wakatime.com/badge/user/da633dea-4b89-49ea-a42c-faaa1575fcb0.svg)](https://wakatime.com/@da633dea-4b89-49ea-a42c-faaa1575fcb0)
 <p>
-   <img src="https://wakatime.com/share/@da633dea-4b89-49ea-a42c-faaa1575fcb0/459b7f70-7ddf-4ba9-a2bc-e8774cb672f3.svg">
+   <img src="https://wakatime.com/share/@da633dea-4b89-49ea-a42c-faaa1575fcb0/459b7f70-7ddf-4ba9-a2bc-e8774cb672f3.svg" height="400">
 </p>
 
 <!-- <details>
@@ -25,13 +26,9 @@
    </p>
 </details> -->
 
-
-
-
-
-   <!--START_SECTION:waka-->
-   <!-- cddea7f4-5aaa-4a39-8e3e-250dacbee2a2 -->
-   <!--END_SECTION:waka-->
+<!--START_SECTION:waka-->
+<!-- cddea7f4-5aaa-4a39-8e3e-250dacbee2a2 -->
+<!--END_SECTION:waka-->
 
 <!-- [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=deepsea&count_private=true&layout=compact&theme=calm&langs_count=8)](https://github.com/deepsea) -->
 
