@@ -4,6 +4,8 @@
 
 -   You can connect with me here <a href="https://www.linkedin.com/in/richardlawlor/" target="_blank"><img alt="LinkedIn" width='70' src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" /></a>
 
+-   Or you can view my <a href="https://next-virtualcv.vercel.app/" target="_blank"><img alt="virtual-CV" width='70' src="https://img.shields.io/badge/virtual%20cv%20-8A2BE2" /></a> here
+
 <hr>
 
 [![wakatime](https://wakatime.com/badge/user/da633dea-4b89-49ea-a42c-faaa1575fcb0.svg)](https://wakatime.com/@da633dea-4b89-49ea-a42c-faaa1575fcb0)
