@@ -8,10 +8,10 @@
 
 <hr>
 
-[![wakatime](https://wakatime.com/badge/user/da633dea-4b89-49ea-a42c-faaa1575fcb0.svg)](https://wakatime.com/@da633dea-4b89-49ea-a42c-faaa1575fcb0)
+<!-- [![wakatime](https://wakatime.com/badge/user/da633dea-4b89-49ea-a42c-faaa1575fcb0.svg)](https://wakatime.com/@da633dea-4b89-49ea-a42c-faaa1575fcb0)
 <p>
    <img src="https://wakatime.com/share/@da633dea-4b89-49ea-a42c-faaa1575fcb0/459b7f70-7ddf-4ba9-a2bc-e8774cb672f3.svg" height="400">
-</p>
+</p> -->
 
 <!-- <details>
    <summary>Github Statistics</summary>
